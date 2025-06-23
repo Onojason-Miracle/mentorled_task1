@@ -12,11 +12,11 @@ This is a simple personal portfolio landing page built as part of the MentorLed 
 
 This is a responsive landing page featuring:
 
-- 👤 Header with my name and profession  
-- 📝 A short About Me section  
-- 📧 A contact email link  
-- 📱 Responsive layout for mobile and desktop  
-- 🎨 A clean and minimal UI 
+- 👤 Header with my name and profession
+- 📝 A short About Me section
+- 📧 A contact email link
+- 📱 Responsive layout for mobile and desktop
+- 🎨 A clean and minimal UI
 
 # 💻 Tech Stack
 
@@ -33,12 +33,12 @@ This is a responsive landing page featuring:
 
 ## ✅ Task Requirements Checklist
 
-- [x] Header with name and profession  
-- [x] "About Me" section  
-- [x] Contact email  
-- [x] Responsive design  
-- [x] Clean layout matching Figma  
+- [x] Header with name and profession
+- [x] "About Me" section
+- [x] Contact email
+- [x] Responsive design
+- [x] Clean layout matching Figma
 
 ---
 
-> Developed by Miracle Onojason as part of the **MentorLed Frontend Task – 2025
+> Developed by Miracle Onojason as part of the \*\*MentorLed Frontend Task – 2025

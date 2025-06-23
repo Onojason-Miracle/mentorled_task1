@@ -74,7 +74,6 @@
   font-size: 1.3rem;
 }
 
-
 .link:hover {
   color: var(--main-color);
 }
@@ -109,7 +108,6 @@ footer p {
   }
 }
 
-
 /* Animation keyframes for about */
 @keyframes fadeInUp {
   0% {
@@ -133,18 +131,15 @@ header {
 }
 
 header {
-  opacity: 0; 
+  opacity: 0;
 }
-
 
 /* about animation */
 .about {
   animation: fadeInUp 1s ease-out forwards;
-  animation-delay: 1s; /* appears after header */
+  animation-delay: 1s; 
   opacity: 0;
 }
-
-
 
 @media (max-width: 600px) {
   .main {
