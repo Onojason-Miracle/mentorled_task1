@@ -169,7 +169,7 @@ header {
     color: var(--bg-color);
     display: inline-flex;
     align-items: center;
-    padding: 5px 20px;
+    padding: 10px 25px;
     gap: 10px;
   }
 
